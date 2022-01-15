@@ -13,8 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="coffee-gif" height="150" style="border-radius:50px;" src="https://i.gifer.com/3Lp.gif">
-  <iframe src="https://gifer.com/embed/3Lp" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">
+  
+  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/3Lp" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 </div>
   
   ##
